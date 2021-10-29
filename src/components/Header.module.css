@@ -1,0 +1,26 @@
+.header{
+    background-color: black;
+    overflow: hidden;
+    border: 1px solid black;
+    padding:0px 20px;
+}
+.right-header-menu{
+    color: white;
+    padding: 15px 30px;
+    float: left;
+    position: relative;
+    font-size: 20px;
+    text-decoration: none;
+}
+.right-header-menu:hover, .left-header-menu:hover{
+    background-color: white;
+    color: black;
+}
+.left-header-menu{
+    color: white;
+    padding: 15px 30px;
+    float: right;
+    position: relative;
+    font-size: 20px;
+    text-decoration: none;
+}

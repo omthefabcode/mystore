@@ -1,0 +1,27 @@
+{
+  "name": "mystore",
+  "version": "1.0.0",
+  "private": true,
+  "description": "shopify store",
+  "author": "omthefabcode",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby clean && gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.0.2",
+    "gatsby-plugin-image": "^2.0.0",
+    "gatsby-plugin-sharp": "^4.0.1",
+    "gatsby-source-filesystem": "^4.0.0",
+    "gatsby-source-shopify": "^6.0.0",
+    "gatsby-transformer-sharp": "^4.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+.container{
+    width: 80%;
+    margin:0px auto;
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Arial';
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

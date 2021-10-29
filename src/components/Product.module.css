@@ -1,0 +1,30 @@
+.product{
+    width: 20%;
+    border: 1px solid #e7e4e4;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    margin: 2%;
+    border-radius: 10px;
+}
+.product:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.image{
+    height: auto;
+}
+.title{
+    padding: 0px 10px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.created-at{
+    clear: both;
+    padding: 5px 10px;
+    font-size: 15px;
+    float: left;
+    margin-bottom: 10px;
+}
